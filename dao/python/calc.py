@@ -1,0 +1,5 @@
+#!/usr/bin/python
+#-*-coding:utf-8-*-
+print("1024 * 768 = ",1024 * 768 )
+
+
